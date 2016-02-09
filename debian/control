@@ -2,7 +2,7 @@ Source: libtc77
 Section: libraries
 Priority: extra
 XBSC-Group: Sensors
-XBSC-Subgrout: Temperature
+XBSC-Subgroup: Temperature
 Maintainer: Matt Jenkins <matt@majenko.co.uk>
 Build-Depends: debhelper (>= 8.0.0)
 Standards-Version: 3.9.4
