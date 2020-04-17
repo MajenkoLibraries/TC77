@@ -1,18 +1,1 @@
-{
-    "name": "TC77",
-    "provides": "TC77.h",
-    "license": "LICENSE.md",
-    "readme": "README.md",
-    "description": "TC77 Temperature Sensor Library",
-    "category": "Sensors",
-    "subcategory": "Environmental",
-    "maintainer": "Matt Jenkins <matt@majenko.co.uk>",
-    "version": "1.0.5",
-    "family": "all",
-    "core": "all",
-    "install": {
-        "examples": "/",
-        "TC77.cpp": "/",
-        "TC77.h": "/"
-    }
-}
+{"name":"TC77","provides":"TC77.h","license":"LICENSE.md","readme":"README.md","description":"TC77 Temperature Sensor Library","category":"Sensors","subcategory":"Environmental","maintainer":"Matt Jenkins <matt@majenko.co.uk>","version":"1.0.6","family":"all","core":"all","install":{"examples":"\/","library.properties":"\/","src":"\/"}}
